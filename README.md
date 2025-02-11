@@ -80,15 +80,15 @@ AWS_REGION=<your-aws-region>
 Create a terraform.tfvars file in the terraform directory with the following content:
 
 ```markdown
-task_execution_role_arn = "<your-task-execution-role-arn>"
-ecr_image_uri = "<your-ecr-image-uri>
-ecs_cluster_arn = "<your-ecs-cluster-arn>"
-aws_access_key_id = "<your-aws-access-key-id>"
-aws_secret_access_key = "<your-aws-secret-access-key>"
-db_name = "<your-database-name>"
-db_username = "<your-database-username>"
-db_password = "<your-database-password>"
-db_host = "<your-database-ip>"
-db_port = "5439"
-db_schema = "<your-database-schema>"
+task_execution_role_arn="<your-task-execution-role-arn>"
+ecr_image_uri="<your-ecr-image-uri>
+ecs_cluster_arn="<your-ecs-cluster-arn>"
+aws_access_key_id="<your-aws-access-key-id>"
+aws_secret_access_key="<your-aws-secret-access-key>"
+db_name="<your-database-name>"
+db_username="<your-database-username>"
+db_password="<your-database-password>"
+db_host="<your-database-ip>"
+db_port="5439"
+db_schema="<your-database-schema>"
 ```
