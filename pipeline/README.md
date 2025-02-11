@@ -1,1 +1,0 @@
-docker build -f dockerization/Dockerfile --platform linux/amd64 -t batch-pipeline:latest . 
