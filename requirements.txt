@@ -1,0 +1,13 @@
+boto3
+openpyxl
+pandas
+redshift_connector
+python-dotenv
+pylint
+pytest
+pyarrow
+altair
+argparse
+streamlit
+watchdog
+datetime

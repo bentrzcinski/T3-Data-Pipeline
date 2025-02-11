@@ -1,0 +1,46 @@
+{
+    "Trucks": [
+        {
+            "Truck name": "Burrito Madness",
+            "Total transaction value": 560.5,
+            "Total number of transactions": 70,
+            "Average spend per transaction": 8.01
+        },
+        {
+            "Truck name": "Kings of Kebabs",
+            "Total transaction value": 0,
+            "Total number of transactions": 0,
+            "Average spend per transaction": -1
+        },
+        {
+            "Truck name": "Cupcakes by Michelle",
+            "Total transaction value": 848.55,
+            "Total number of transactions": 145,
+            "Average spend per transaction": 5.85
+        },
+        {
+            "Truck name": "Hartmann's Jellied Eels",
+            "Total transaction value": 114.5,
+            "Total number of transactions": 50,
+            "Average spend per transaction": 2.29
+        },
+        {
+            "Truck name": "Yoghurt Heaven",
+            "Total transaction value": 300.0,
+            "Total number of transactions": 60,
+            "Average spend per transaction": 5.0
+        },
+        {
+            "Truck name": "SuperSmoothie",
+            "Total transaction value": 189.65,
+            "Total number of transactions": 35,
+            "Average spend per transaction": 5.42
+        }
+    ],
+    "Totals": {
+        "name": "Total",
+        "Total combined transaction value": 2013.2,
+        "Total number of transactions": 360,
+        "Overall average spend per transaction": 4.261666666666667
+    }
+}
